@@ -7,7 +7,7 @@ from gxipy import DeviceManager, Device
 import numpy as np
 
 # Local Imports
-from navigate.model.utils.exceptions import UserVisibleException 
+#from navigate.model.utils.exceptions import UserVisibleException 
 
 logger = logging.getLogger(__name__)
 
